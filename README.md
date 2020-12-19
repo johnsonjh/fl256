@@ -11,3 +11,7 @@ It also has convenience converters to and from big.Int, string, int64 and uint64
 The reason for the high precision of decimals in this library is because it has been written for a future protocol upgrade to [pod](https://github.com/p9c/pod) (currently being restructured [here](https://github.com/p9c/monorepo)) due to the unusually small total supply and incredible amount of the tokens stuck in lost or liquidation from failed exchanges that were the only venue at that time for [parallelcoin](https://parallelcoin.info).
 
 To make your code a little less wordy you may want to alias the import with a shorter name with or two letters like f, F, or fl or something similar. The return values are plain vanilla `*big.Float` variables so it is possible to use them in the normal `math/big` manner should there be any need to inspect internals such as precision, mantissa, exponent, accuracy, and so forth.
+
+## Original Author
+
+* [l0k18 (Loki)](https://github.com/l0k18)  [\<stalker.loki@protonmail.ch\>](mailto:stalker.loki@protonmail.ch)
