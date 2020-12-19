@@ -11,3 +11,7 @@ It also has convenience converters to and from big.Int, string, int64 and uint64
 The reason for the high precision of decimals in this library is because it has been written for an upcoming [Gocoin](https://github.com/piotrnar/gocoin) fork that has a flat annual supply rate of 3.125% meaning that block rewards relatively rapidly decay at a rate of an average 2 decimal places per year, and an implicit supply limitation via the limit function created by an exponential decay (though if precision is increased when needed there need not be an end to miner block rewards - for which reason there is no transaction fee.)
 
 To make your code a little less wordy you may want to alias the import with a shorter name with or two letters like f, F, or fl or something similar. The return values are plain vanilla `*big.Float` variables so it is possible to use them in the normal `math/big` manner should there be any need to inspect internals such as precision, mantissa, exponent, accuracy, and so forth.
+
+## Original Author
+
+* [l0k18 (Loki)](https://github.com/l0k18)  [\<stalker.loki@protonmail.ch\>](mailto:stalker.loki@protonmail.ch)
