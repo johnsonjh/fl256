@@ -14,4 +14,5 @@ To make your code a little less wordy you may want to alias the import with a sh
 
 ## Original Author
 
-- [l0k18 (Loki)](https://github.com/l0k18) [\<stalker.loki@protonmail.ch\>](mailto:stalker.loki@protonmail.ch)
+- [l0k18 (Loki)](https://github.com/l0k18)
+  [\<stalker.loki@protonmail.ch\>](mailto:stalker.loki@protonmail.ch)
