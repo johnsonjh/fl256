@@ -1,4 +1,4 @@
-# float256
+# f256
 
 ## A cryptocurrency ledger token denomination math library
 
