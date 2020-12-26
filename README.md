@@ -59,19 +59,19 @@ This package is *dual-licensed*, and made available under both a
 traditional open-source license, as well as a restricted-use, non-free, 
 proprietary license.
 
- * **The fl256 License**, is the open-source software license. It is 
- *fully compatible* wit
+ * [**The fl256 License**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256),
+ is the fl256 open-source software license. It is *fully compatible* with
  [**The X.Org Preferred License**](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml),
-(itself being a minor variant of [**The MIT License**](https://tldrlegal.com/license/mit-license).)
-**The fl256 License** verbiage is, in fact, identical to that of 
-**The X.Org Preferred License**, differentiated only by changes in punctuation.
+ (itself being a minor variant of [**The MIT License**](https://tldrlegal.com/license/mit-license).)
+ **The fl256 License** verbiage is, in fact, identical to that of 
+ **The X.Org Preferred License**, differentiated only by changes in punctuation.
 
- * [**The Oxford 153 Entitlement: Mark I**](https://prone.ws/ox153)
- is a new, unique, non-free, and proprietary software license. While the author
- _strongly_ encourages all eligible users to accept the Terms and Conditions
- of the **OX153MkI**, it is by no means a requirement. Anyone who will not, or
- can not, be bound by the terms set forth in the **OX153MkI** may fork this
- repository and remove all references to the **OX153MkI**.
+ * [**The Oxford 153 Entitlement: Mark I**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
+ is a new, unique, non-free, and strongly proprietary software license. While
+ the author _strongly_ encourages any eligible user to accept the Terms and
+ Conditions of the **OX153MkI**, it is by no means a requirement; anyone who
+ will not, or can not, be bound by the terms set forth in the **OX153MkI** 
+ may fork this repository and remove all references to the **OX153MkI**.
 
 ## Contributing
 
