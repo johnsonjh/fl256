@@ -164,7 +164,7 @@ func Abs(a *big.Float) *big.Float {
 	return Zero().Abs(a)
 }
 
-// Neg flips the sign of the parameter Float. 
+// Neg flips the sign of the parameter Float.
 // Negative values are rejected by the Encode function.
 // (They are invalid in the context of a crypto-currency ledger.)
 func Neg(a *big.Float) *big.Float {
@@ -211,7 +211,7 @@ func Mod(a, b *big.Float) *big.Float {
 	return rem
 }
 
-// Encode takes a big.Float input, bit-shifts left, and truncates the 
+// Encode takes a big.Float input, bit-shifts left, and truncates the
 // result at '214' bits of decimal precision, or a maximum of '42' bits
 // of integer precision, returning a byte slice. Negative values, and
 // values greater than '4,398,046,511,103' are invalid inputs, and will
