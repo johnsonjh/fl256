@@ -4,6 +4,8 @@
 
 [![CodebeatBadge](https://codebeat.co/badges/85330b22-1d38-4937-9fd9-c506098f210e)](https://codebeat.co/projects/github-com-johnsonjh-fl256-master)
 
+-----------------------
+
 ### Overview
 
 `fl256` implements a high-precision fixed-point numeric type for Go.
