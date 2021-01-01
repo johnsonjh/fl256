@@ -92,23 +92,23 @@ Mark I**, every contributor, no matter how small their contribution, must sign
 the _fl256 CLA/CTA/LO_ document.
 
 Our Contributor License Agreement, Copyright Transfer Assignment, and Loyalty
-Oath is intended to ensure, forever, the integrity of any tool distributed under
-the **OX153MkI**. As such, it is a non-negotiable eternally binding legal
-instrument, by which the contributor grants the "_The fl256 Authors_" a
-perpetual, world- and universe-wide, non-exclusive, free-of-charge,
-zero-royalty, forever irrevocable, persistent, irrevocable, absolute,
-unalterable, and completely unlimited license, as well as a complete and total
-reassignment of copyright and ownership, allowing _The fl256 Authors_ to
-reproduce, redistribute, sub-license, re-license, or otherwise fully control the
-contribution, in it's entirety, including any works which may be later derived
-from the contribution. The document also includes a Loyalty Oath, intended to
-formally and authoritatively finalize the total acceptance of, and assure
-eternal adherence to, the principles and values embodied by the **The Oxford 153
-Entitlement: Mark I**.
+Oath is intended to ensure, in perpetuity, absolute integrity of all tools 
+distributed under the **OX153MkI**. As such, it is a non-negotiable, eternally
+binding legal instrument, by which the contributor grants the "_The fl256 Authors_"
+a perpetual, world- and universe-wide, non-exclusive, free-of-charge, zero-royalty,
+forever irrevocable, persistent, immutable, absolute, unalterable, and completely
+unlimited license, as well as a complete and total reassignment of copyright and
+ownership, allowing "_The fl256 Authors_" to reproduce, redistribute, sub-license,
+re-license, or otherwise fully control the contribution, in it's entirety, including
+any works which may be later derived from the contribution. The document also
+includes a Loyalty Oath, intended to formally and authoritatively finalize the total
+acceptance of, and assure eternal adherence to, the principles and values embodied by
+the **The Oxford 153 Entitlement: Mark I**.
 
-A complete copy of _fl256 CLA/CTA/LO_ will be furnished to any potential
-contributor. We encourage that all potential contributors completely understand
-the _fl256 CLA/CTA/LO_, and recommended seeking guidance from qualified legal
-council well-versed in such matters, who can offer any necessary assistance and
-clarification if any questions arise during the reading of the _fl256
-CLA/CTA/LO_ document.
+A complete copy of _fl256 CLA/CTA/LO_ will be furnished upon request to any potential
+contributor. We encourage that all potential contributors completely understand the 
+_fl256 CLA/CTA/LO_. It this furtherore recommended to seek guidance from qualified
+legal council well-versed in such matters, who would be qualified to offer any 
+necessary assistance or clarification, if any questions were to arise during your
+review of the _fl256 CLA/CTA/LO_ document. Unfortunately, we can not, and will not,
+answer any inquiries regarding the content of the _fl256 CLA/CTA/LO_ document iself.
