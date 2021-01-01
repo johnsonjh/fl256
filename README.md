@@ -45,19 +45,19 @@ calculations using fixed-point operations for general use, such as:
 - ["strongo/decimal"](https://github.com/strongo/decimal),
 - ["go-info/inf"](https://github.com/go-inf/inf),
 
-Please follow standard best practices and exercise due diligence before
-selecting and adopting any decimal or arbitrary-precision math library.
+Please follow all best practices and industry norms. You must exercise
+due diligence when selecting any high precision math library for use.
 
 ## Original Author
 
-- [l0k18 (Loki)](https://github.com/l0k18)
+- [Loki 'l0k18' Verloren](https://github.com/l0k18)
   [\<stalker.loki@protonmail.ch\>](mailto:stalker.loki@protonmail.ch)
 
-  - The original author released the `float256` library, from which `fl256` was
-    derived, into the public domain, by way of the
-    [Unlicense](https://unlicense.org) declaration and dedicaton, which
-    [allowed for](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
-    package to be created and relicensed under unambigious terms.
+  - Loki is the original author of the `float256` library, which `fl256` was
+    derived. The source code was released into the public domain, by way of the
+    [Unlicense](https://unlicense.org) public domain declaration and dedicaton,
+    which [allowed for](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
+    package to be created, and relicensed, under legally unambigious terms.
 
 ## Licensing
 
