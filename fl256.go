@@ -1,6 +1,6 @@
 // Package fl256 implements a fixed-point, '63' decimal precision type.
 // The maximum integer value of the "fl256" type is '4,398,046,511,103'.
-// It implements a serialisation codec for compatibility with big.Float
+// It implements a serialization codec for compatibility with big.Float
 // that uses a "42.214" fixed-precision value. During calculations, it is
 // possible to work with negative numbers for convenience, however, they
 // cannot be imported or encoded in "fl256" representation. The functions
