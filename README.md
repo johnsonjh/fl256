@@ -66,20 +66,20 @@ due diligence when selecting any high precision math library for use.
 This package is _dual-licensed_, and made available under both a traditional
 open-source license, as well as a restricted-use, non-free, proprietary license.
 
-- [**The fl256 License**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
+- [***The fl256 License***](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
   is an Open Source software license. It is _fully compatible_ with
-  [**The X.Org Preferred License**](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml),
-  (itself being a minor variant of
-  [**The MIT License**](https://tldrlegal.com/license/mit-license).) **The fl256
-  License** verbiage is, in fact, identical to that of **The X.Org Preferred
-  License**, differentiated only by changes in punctuation.
+  [***The X.Org Preferred License***](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml)
+  which is a minor variant of [***The MIT License***](https://tldrlegal.com/license/mit-license).
+  **The fl256 License** verbiage is identical to that of ***The X.Org Preferred License***,
+  differentiated only by changes in punctuation and spacing.
 
-- [**The Oxford 153 Entitlement: Mark I**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
+- [***The Oxford 153 Entitlement: Mark I***](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
   is a new, unique, non-free, and strongly proprietary software license. While
   the author _strongly_ encourages any eligible user to accept the Terms and
-  Conditions of the **OX153MkI**, it is by no means a requirement; anyone who
-  will not, or can not, be bound by the terms set forth in the **OX153MkI** may
-  fork this repository and remove all references to the **OX153MkI**.
+  Conditions of the ***OX153MkI***, it is by no means a requirement; anyone who
+  will not, or can not, be bound by the terms set forth in the ***OX153MkI*** may
+  fork the repository, and simply remove all references to the ***OX153MkI***.
+  In this case, **ONLY** ***The fl256 License*** would be applicable.
 
 ## Contributing
 
