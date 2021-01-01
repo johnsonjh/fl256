@@ -66,7 +66,7 @@ selecting and adopting any decimal or arbitrary-precision math library.
 This package is _dual-licensed_, and made available under both a traditional
 open-source license, as well as a restricted-use, non-free, proprietary license.
 
-- [**The fl256 License**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256),
+- [**The fl256 License**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
   is the fl256 open-source software license. It is _fully compatible_ with
   [**The X.Org Preferred License**](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml),
   (itself being a minor variant of
