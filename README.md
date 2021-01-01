@@ -73,42 +73,46 @@ open-source license, as well as a restricted-use, non-free, proprietary license.
   **The fl256 License** verbiage is identical to that of ***The X.Org Preferred License***,
   differentiated only by changes in punctuation and spacing.
 
-- [***The Oxford 153 Entitlement: Mark I***](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
-  is a new, unique, non-free, and strongly proprietary software license. While
-  the author _strongly_ encourages any eligible user to accept the Terms and
-  Conditions of the ***OX153MkI***, it is by no means a requirement; anyone who
-  will not, or can not, be bound by the terms set forth in the ***OX153MkI*** may
-  fork the repository, and simply remove all references to the ***OX153MkI***.
-  In this case, **ONLY** ***The fl256 License*** would be applicable.
+- [***The Oxford 153 Entitlement: Mark I***](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153),
+  or, informally, "the **OX153MkI**", is a new, unique, non-free, and strongly
+  proprietary software license. While the author _strongly_ encourages all eligible
+  users to accept the Terms and Conditions of the ***OX153MkI***, it is by no
+  means a requirement - anyone who will not (or can not) be bound by the terms
+  set forth in the ***OX153MkI*** may fork the repository, and simply remove
+  all references to the ***OX153MkI***. In this case, you are bound 
+  **ONLY** by the terms of the ***The fl256 License*** open source license. While
+  it would be suggested to rename your project to avoid any confusion, there
+  is no hard requirement to enforce renaming any derived or forked work.
 
 ## Contributing
 
-Anyone who wishes to contribute code or documentation to `fl256` will be
-required to digitally sign, using [PGP](https://www.openpgp.org/) or
-[opmsg](https://github.com/stealth/opmsg), the _fl256 CLA/CTA/LO_, a combined
-contributor license agreement, copyright transfer assignment, and loyalty oath.
-Because of the restrictive terms and conditions of **The Oxford 153 Entitlement:
-Mark I**, every contributor, no matter how small their contribution, must sign
-the _fl256 CLA/CTA/LO_ document.
+Anyone who wishes to contribute code (or documentation) to the standard `fl256`
+will be required to digitally sign, using either [PGP](https://www.openpgp.org/)
+or [opmsg](https://github.com/stealth/opmsg), the "_fl256 CLA/CTA/LO_". This is
+a combined Contributor License Agreement, Copyright Transfer Assignment, and Loyalty
+Oath. Because of the restrictive Terms and Conditions of **The Oxford 153 Entitlement:
+Mark I**, every contributor, no matter how small their contribution, must provide the
+*fl256 authors* a digitally signed copy of the "_fl256 CLA/CTA/LO_" document without
+exception.
 
-Our Contributor License Agreement, Copyright Transfer Assignment, and Loyalty
-Oath is intended to ensure, in perpetuity, absolute integrity of all tools 
-distributed under the **OX153MkI**. As such, it is a non-negotiable, eternally
-binding legal instrument, by which the contributor grants the "_The fl256 Authors_"
+The Contributor License Agreement, Copyright Transfer Assignment, and Loyalty Oath
+is intended to ensure, in perpetuity, the absolute integrity of any and all tools
+distributed under the **OX153MkI**. As such, this is a non-negotiable, eternally
+binding legal instrument, by which the contributor grants the *the fl256 authors"
 a perpetual, world- and universe-wide, non-exclusive, free-of-charge, zero-royalty,
 forever irrevocable, persistent, immutable, absolute, unalterable, and completely
-unlimited license, as well as a complete and total reassignment of copyright and
-ownership, allowing "_The fl256 Authors_" to reproduce, redistribute, sub-license,
-re-license, or otherwise fully control the contribution, in it's entirety, including
-any works which may be later derived from the contribution. The document also
-includes a Loyalty Oath, intended to formally and authoritatively finalize the total
-acceptance of, and assure eternal adherence to, the principles and values embodied by
-the **The Oxford 153 Entitlement: Mark I**.
+unlimited-in-scope license to the contribution, as well as a complete and total
+assignment of copyright and ownership, which allows *the fl256 authors* to reproduce,
+redistribute, sub-license, re-license, or otherwise fully control the contribution,
+in it's entirety, including any works which may be later derived from the
+contribution. The document also includes a specific Loyalty Oath, intended to formally
+and authoritatively finalize total acceptance of, and assure eternal adherence to, the
+principles and values embodied by the **The Oxford 153 Entitlement: Mark I**.
 
-A complete copy of _fl256 CLA/CTA/LO_ will be furnished upon request to any potential
-contributor. We encourage that all potential contributors completely understand the 
-_fl256 CLA/CTA/LO_. It this furtherore recommended to seek guidance from qualified
-legal council well-versed in such matters, who would be qualified to offer any 
-necessary assistance or clarification, if any questions were to arise during your
-review of the _fl256 CLA/CTA/LO_ document. Unfortunately, we can not, and will not,
-answer any inquiries regarding the content of the _fl256 CLA/CTA/LO_ document iself.
+A complete copy of "_fl256 CLA/CTA/LO_" will be furnished upon request to any potential
+contributors. We encourage all potential contributors read and completely understand the
+the "_fl256 CLA/CTA/LO_". It this recommended that would-be contributors seek the guidance
+from licensed and qualified legal council, well-versed in such matters, as they  would be
+best qualified to offer any necessary assistance or clarity if any questions should arise
+during your review of the "_fl256 CLA/CTA/LO_" documents. Unfortunately, we can not, and
+will not, answer any inquiry regarding the content of the "_fl256 CLA/CTA/LO_" document.
