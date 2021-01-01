@@ -80,39 +80,41 @@ open-source license, as well as a restricted-use, non-free, proprietary license.
   means a requirement - anyone who will not (or can not) be bound by the terms
   set forth in the ***OX153MkI*** may fork the repository, and simply remove
   all references to the ***OX153MkI***. In this case, you are bound 
-  **ONLY** by the terms of the ***The fl256 License*** open source license. While
-  it would be suggested to rename your project to avoid any confusion, there
-  is no hard requirement to enforce renaming any derived or forked work.
+  **ONLY** by the terms of the ***The fl256 License*** license. While it
+  is recommended that the new projects are renamed, to avoid any user confusion,
+  the creation of derivitative works bear no actual legal requirement or contractual
+  stipulation that could force the renaming or rebranding of derivitative works.
 
 ## Contributing
 
-Anyone who wishes to contribute code (or documentation) to the standard `fl256`
-will be required to digitally sign, using either [PGP](https://www.openpgp.org/)
-or [opmsg](https://github.com/stealth/opmsg), the "_fl256 CLA/CTA/LO_". This is
-a combined Contributor License Agreement, Copyright Transfer Assignment, and Loyalty
-Oath. Because of the restrictive Terms and Conditions of **The Oxford 153 Entitlement:
-Mark I**, every contributor, no matter how small their contribution, must provide the
-*fl256 authors* a digitally signed copy of the "_fl256 CLA/CTA/LO_" document without
-exception.
+Anyone who wishes to contribute code (or documentation) to `fl256`, furthermore,
+("*the Tool*"), will be required to digitally sign, using either [PGP](https://www.openpgp.org/)
+or [opmsg](https://github.com/stealth/opmsg), the "_fl256 CLA/CTA/LO_". This is a
+combination documentation that consists of a Contributor License Agreement, Copyright
+Transfer Assignment, and Loyalty Oath. Because of the restrictive Terms and Conditions
+of **The Oxford 153 Entitlement: Mark I**, every contributor, no matter how small
+their contribution, must provide the *fl256 authors* a digitally signed copy of the
+"_fl256 CLA/CTA/LO_" document, without exception. Anyone who cannot consent to the
+complete terms of the "_fl256 CLA/CTA/LO_" can **NOT** contribute to the project.
 
 The Contributor License Agreement, Copyright Transfer Assignment, and Loyalty Oath
-is intended to ensure, in perpetuity, the absolute integrity of any and all tools
-distributed under the **OX153MkI**. As such, this is a non-negotiable, eternally
-binding legal instrument, by which the contributor grants the *the fl256 authors"
+document is intended to ensure, in perpetuity, the absolute integrity of all tools
+distributed under the **OX153MkI**. As such, this document is a non-negotiable,
+eternally binding legal instrument, which the contributor grants the "*the fl256 authors*"
 a perpetual, world- and universe-wide, non-exclusive, free-of-charge, zero-royalty,
 forever irrevocable, persistent, immutable, absolute, unalterable, and completely
-unlimited-in-scope license to the contribution, as well as a complete and total
-assignment of copyright and ownership, which allows *the fl256 authors* to reproduce,
-redistribute, sub-license, re-license, or otherwise fully control the contribution,
-in it's entirety, including any works which may be later derived from the
-contribution. The document also includes a specific Loyalty Oath, intended to formally
-and authoritatively finalize total acceptance of, and assure eternal adherence to, the
-principles and values embodied by the **The Oxford 153 Entitlement: Mark I**.
+unlimited-in-scope license to their contribution, as well as full release and transfer
+of copyright assignment and ownership. This allows "*the fl256 authors*" to reproduce,
+redistribute, sub-license, re-license, or otherwise control entirely the contribution,
+including, but not limited to, any works which may be later derived from the contribution.
+The document also includes a very specific Loyalty Oath, intended to authoritatively
+finalize complete total acceptance of, and assure eternal adherence to, the principles
+and values embodied by the **The Oxford 153 Entitlement: Mark I**.
 
 A complete copy of "_fl256 CLA/CTA/LO_" will be furnished upon request to any potential
-contributors. We encourage all potential contributors read and completely understand the
-the "_fl256 CLA/CTA/LO_". It this recommended that would-be contributors seek the guidance
-from licensed and qualified legal council, well-versed in such matters, as they  would be
-best qualified to offer any necessary assistance or clarity if any questions should arise
-during your review of the "_fl256 CLA/CTA/LO_" documents. Unfortunately, we can not, and
-will not, answer any inquiry regarding the content of the "_fl256 CLA/CTA/LO_" document.
+contributors. We encourage all potential contributors read *and completely understand* the
+the "_fl256 CLA/CTA/LO_". It further recommended that any would-be contributors seek guidance
+from qualified and licensed legal council, preferably well-versed in U.S. Contract Law.
+Seeking formal assistance should be the first step if if any questions arise during your
+reading of the "_fl256 CLA/CTA/LO_" document. Unfortunately, "*the fl256 authors*" can not,
+and will not, answer any inquiries regarding the contents of the "_fl256 CLA/CTA/LO_" documents.
