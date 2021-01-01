@@ -68,7 +68,7 @@ open-source license, as well as a restricted-use, non-free, proprietary license.
 
 - [***The fl256 License***](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
   is an Open Source software license. It is _fully compatible_ with
-  [***The X.Org Preferred License***](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml)
+  [***The X.Org Preferred License***](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml),
   which is a minor variant of [***The MIT License***](https://tldrlegal.com/license/mit-license).
   **The fl256 License** verbiage is identical to that of ***The X.Org Preferred License***,
   differentiated only by changes in punctuation and spacing.
