@@ -45,8 +45,8 @@ calculations using fixed-point operations for general use, such as:
 - ["strongo/decimal"](https://github.com/strongo/decimal),
 - ["go-info/inf"](https://github.com/go-inf/inf),
 
-Please follow all best practices and industry norms. You must exercise
-due diligence when selecting any high precision math library for use.
+Please follow all best practices and industry norms. You must exercise due
+diligence when selecting any high precision math library for use.
 
 ## Original Author
 
@@ -56,8 +56,9 @@ due diligence when selecting any high precision math library for use.
   - Loki is the original author of the `float256` library, which `fl256` was
     derived. The source code was released into the public domain, by way of the
     [Unlicense](https://unlicense.org) public domain declaration and dedicaton,
-    which [allowed for](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
-    package to be created, and relicensed, under legally unambigious terms.
+    which [allowed for](https://ar.to/2010/01/dissecting-the-unlicense) the
+    `fl256` package to be created, and relicensed, under legally unambigious
+    terms.
 
 ## Licensing
 
@@ -66,55 +67,62 @@ due diligence when selecting any high precision math library for use.
 This package is _dual-licensed_, and made available under both a traditional
 open-source license, as well as a restricted-use, non-free, proprietary license.
 
-- [***The fl256 License***](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
+- [**_The fl256 License_**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
   is an Open Source software license. It is _fully compatible_ with
-  [***The X.Org Preferred License***](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml),
-  which is a minor variant of [***The MIT License***](https://tldrlegal.com/license/mit-license).
-  **The fl256 License** verbiage is identical to that of ***The X.Org Preferred License***,
-  differentiated only by changes in punctuation and spacing.
+  [**_The X.Org Preferred License_**](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml),
+  which is a minor variant of
+  [**_The MIT License_**](https://tldrlegal.com/license/mit-license). **The
+  fl256 License** verbiage is identical to that of **_The X.Org Preferred
+  License_**, differentiated only by changes in punctuation and spacing.
 
-- [***The Oxford 153 Entitlement: Mark I***](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153),
+- [**_The Oxford 153 Entitlement: Mark I_**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153),
   or, informally, "the **OX153MkI**", is a new, unique, non-free, and strongly
-  proprietary software license. While the author _strongly_ encourages all eligible
-  users to accept the Terms and Conditions of the ***OX153MkI***, it is by no
-  means a requirement - anyone who will not (or can not) be bound by the terms
-  set forth in the ***OX153MkI*** may fork the repository, and simply remove
-  all references to the ***OX153MkI***. In this case, you are bound 
-  **ONLY** by the terms of the ***The fl256 License*** license. While it
-  is recommended that the new projects are renamed, to avoid any user confusion,
-  the creation of derivitative works bear no actual legal requirement or contractual
-  stipulation that could force the renaming or rebranding of derivitative works.
+  proprietary software license. While the author _strongly_ encourages all
+  eligible users to accept the Terms and Conditions of the **_OX153MkI_**, it is
+  by no means a requirement - anyone who will not (or can not) be bound by the
+  terms set forth in the **_OX153MkI_** may fork the repository, and simply
+  remove all references to the **_OX153MkI_**. In this case, you are bound
+  **ONLY** by the terms of the **_The fl256 License_** license. While it is
+  recommended that the new projects are renamed, to avoid any user confusion,
+  the creation of derivitative works bear no actual legal requirement or
+  contractual stipulation that could force the renaming or rebranding of
+  derivitative works.
 
 ## Contributing
 
 Anyone who wishes to contribute code (or documentation) to `fl256`, furthermore,
-("*the Tool*"), will be required to digitally sign, using either [PGP](https://www.openpgp.org/)
-or [opmsg](https://github.com/stealth/opmsg), the "_fl256 CLA/CTA/LO_". This is a
-combination documentation that consists of a Contributor License Agreement, Copyright
-Transfer Assignment, and Loyalty Oath. Because of the restrictive Terms and Conditions
-of **The Oxford 153 Entitlement: Mark I**, every contributor, no matter how small
-their contribution, must provide the *fl256 authors* a digitally signed copy of the
-"_fl256 CLA/CTA/LO_" document, without exception. Anyone who cannot consent to the
-complete terms of the "_fl256 CLA/CTA/LO_" can **NOT** contribute to the project.
+("_the Tool_"), will be required to digitally sign, using either
+[PGP](https://www.openpgp.org/) or [opmsg](https://github.com/stealth/opmsg),
+the "_fl256 CLA/CTA/LO_". This is a combination documentation that consists of a
+Contributor License Agreement, Copyright Transfer Assignment, and Loyalty Oath.
+Because of the restrictive Terms and Conditions of **The Oxford 153 Entitlement:
+Mark I**, every contributor, no matter how small their contribution, must
+provide the _fl256 authors_ a digitally signed copy of the "_fl256 CLA/CTA/LO_"
+document, without exception. Anyone who cannot consent to the complete terms of
+the "_fl256 CLA/CTA/LO_" can **NOT** contribute to the project.
 
-The Contributor License Agreement, Copyright Transfer Assignment, and Loyalty Oath
-document is intended to ensure, in perpetuity, the absolute integrity of all tools
-distributed under the **OX153MkI**. As such, this document is a non-negotiable,
-eternally binding legal instrument, which the contributor grants the "*the fl256 authors*"
-a perpetual, world- and universe-wide, non-exclusive, free-of-charge, zero-royalty,
-forever irrevocable, persistent, immutable, absolute, unalterable, and completely
-unlimited-in-scope license to their contribution, as well as full release and transfer
-of copyright assignment and ownership. This allows "*the fl256 authors*" to reproduce,
-redistribute, sub-license, re-license, or otherwise control entirely the contribution,
-including, but not limited to, any works which may be later derived from the contribution.
-The document also includes a very specific Loyalty Oath, intended to authoritatively
-finalize complete total acceptance of, and assure eternal adherence to, the principles
-and values embodied by the **The Oxford 153 Entitlement: Mark I**.
+The Contributor License Agreement, Copyright Transfer Assignment, and Loyalty
+Oath document is intended to ensure, in perpetuity, the absolute integrity of
+all tools distributed under the **OX153MkI**. As such, this document is a
+non-negotiable, eternally binding legal instrument, which the contributor grants
+the "_the fl256 authors_" a perpetual, world- and universe-wide, non-exclusive,
+free-of-charge, zero-royalty, forever irrevocable, persistent, immutable,
+absolute, unalterable, and completely unlimited-in-scope license to their
+contribution, as well as full release and transfer of copyright assignment and
+ownership. This allows "_the fl256 authors_" to reproduce, redistribute,
+sub-license, re-license, or otherwise control entirely the contribution,
+including, but not limited to, any works which may be later derived from the
+contribution. The document also includes a very specific Loyalty Oath, intended
+to authoritatively finalize complete total acceptance of, and assure eternal
+adherence to, the principles and values embodied by the **The Oxford 153
+Entitlement: Mark I**.
 
-A complete copy of "_fl256 CLA/CTA/LO_" will be furnished upon request to any potential
-contributors. We encourage all potential contributors read *and completely understand* the
-the "_fl256 CLA/CTA/LO_". It further recommended that any would-be contributors seek guidance
-from qualified and licensed legal council, preferably well-versed in U.S. Contract Law.
-Seeking formal assistance should be the first step if if any questions arise during your
-reading of the "_fl256 CLA/CTA/LO_" document. Unfortunately, "*the fl256 authors*" can not,
-and will not, answer any inquiries regarding the contents of the "_fl256 CLA/CTA/LO_" documents.
+A complete copy of "_fl256 CLA/CTA/LO_" will be furnished upon request to any
+potential contributors. We encourage all potential contributors read _and
+completely understand_ the the "_fl256 CLA/CTA/LO_". It further recommended that
+any would-be contributors seek guidance from qualified and licensed legal
+council, preferably well-versed in U.S. Contract Law. Seeking formal assistance
+should be the first step if if any questions arise during your reading of the
+"_fl256 CLA/CTA/LO_" document. Unfortunately, "_the fl256 authors_" can not, and
+will not, answer any inquiries regarding the contents of the "_fl256
+CLA/CTA/LO_" documents.
