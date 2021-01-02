@@ -1,11 +1,13 @@
 version = 1
 
+test_patterns = ["*_test.go"]
+
 [[analyzers]]
 name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_paths = ["github.com/gridfinity/f256"]
+  import_paths = ["github.com/gridfinity/fl256"]
 
 [[analyzers]]
 name = "test-coverage"
@@ -15,16 +17,8 @@ enabled = true
 name = "shell"
 enabled = true
 
-[[transformers]]
-name = "rubocop"
-enabled = true
-
-[[transformers]]
-name = "black"
-enabled = true
-
-[[transformers]]
-name = "gofmt"
+[[analyzers]]
+name = "secrets"
 enabled = true
 
 [[transformers]]
@@ -49,4 +43,16 @@ enabled = true
 
 [[transformers]]
 name = "standardjs"
+enabled = true
+
+[[transformers]]
+name = "rubocop"
+enabled = true
+
+[[transformers]]
+name = "black"
+enabled = true
+
+[[transformers]]
+name = "gofmt"
 enabled = true
