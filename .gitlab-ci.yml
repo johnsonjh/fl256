@@ -56,7 +56,7 @@ windows job:
     - *scriptCommon
     - $env:Path += ";C:\Program Files\Git\cmd;C:\Go\bin"
     - $env:GO111MODULE="on"
-    - $env:GOPROXY="https://gocenter.io,https://proxy.golang.org,direct"
+    - $env:GOPROXY="https://proxy.golang.org,direct"
     - $env:CGO_ENABLED="0"
     - *scriptGoVersion
     - go clean -modcache -cache -r
@@ -83,7 +83,7 @@ linux job:
     - dnf upgrade --refresh -y
     - dnf groupinstall "Development Tools" -y
     - dnf install epel-release centos-release-scl centos-release-scl-rh -y
-    - dnf install ccache pv valgrind graphviz clang zsh scl-utils devtoolset-9
+    - dnf install ccache pv valgrind graphviz clang zsh scl-utils devtoolset-9 -y
     - dnf groupupdate base -y
     - source /opt/rh/devtoolset-9/enable
     - dnf clean all -y
