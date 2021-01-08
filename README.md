@@ -86,8 +86,8 @@ open-source license, as well as a restricted-use, non-free, proprietary license.
   remove all references to the **_OX153MkI_**. In this case, you are bound
   **ONLY** by the terms of the **_The fl256 License_** license. While it is
   recommended that the new projects are renamed, to avoid any user confusion,
-  the creation of derivative works bear no actual moral or legal requirements
-  or contractual stipulations that could force the renaming or re-branding of
+  the creation of derivative works bear no actual moral or legal requirements or
+  contractual stipulations that could force the renaming or re-branding of
   derivative works.
 
 ## Contributing
