@@ -53,12 +53,12 @@ diligence when selecting any high precision math library for use.
 - [Loki 'l0k18' Verloren](https://github.com/l0k18)
   [\<stalker.loki@protonmail.ch\>](mailto:stalker.loki@protonmail.ch)
 
-  - Loki is the original author of the `float256` library, which `fl256` was
-    derived. The source code was released into the public domain, by way of the
-    [Unlicense](https://unlicense.org) public domain declaration and dedicaton,
-    which [allowed for](https://ar.to/2010/01/dissecting-the-unlicense) the
-    `fl256` package to be created, and relicensed, under legally unambigious
-    terms.
+  - "*Loki*" is the original author of the `float256` library, from which 
+    `fl256` was derived. The `float256` source code was released into the
+	public domain, by way of the [Unlicense](https://unlicense.org) public
+	domain declaration/dedicaton, which
+	[allowed](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
+	library to be created and released under new current licensing scheme.
 
 ## Licensing
 
@@ -71,12 +71,12 @@ open-source license, as well as a restricted-use, non-free, proprietary license.
   is an Open Source software license. It is _fully compatible_ with
   [**_The X.Org Preferred License_**](https://gitlab.freedesktop.org/xorg/doc/xorg-docs/-/blob/master/general/License.xml),
   which is a minor variant of
-  [**_The MIT License_**](https://tldrlegal.com/license/mit-license). **The
-  fl256 License** verbiage is identical to that of **_The X.Org Preferred
+  [**_The MIT License_**](https://tldrlegal.com/license/mit-license). **_The
+  fl256 License_** verbiage is identical to that of **_The X.Org Preferred
   License_**, differentiated only by changes in punctuation and spacing.
 
 - [**_The Oxford 153 Entitlement: Mark I_**](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153),
-  or, informally, "the **OX153MkI**", is a new, unique, non-free, and strongly
+  or, informally, "the **_OX153MkI_**", is a new, unique, non-free, and strongly
   proprietary software license. While the author _strongly_ encourages all
   eligible users to accept the Terms and Conditions of the **_OX153MkI_**, it is
   by no means a requirement - anyone who will not (or can not) be bound by the
