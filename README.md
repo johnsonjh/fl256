@@ -55,12 +55,12 @@ diligence when selecting any high precision math library for use.
 - [Loki 'l0k18' Verloren](https://github.com/l0k18)
   [\<stalker.loki@protonmail.ch\>](mailto:stalker.loki@protonmail.ch)
 
-  - "*Loki*" is the original author of the `float256` library, from which 
+  - "_Loki_" is the original author of the `float256` library, from which
     `fl256` was derived. The `float256` source code was released into the
-	public domain, by way of the [Unlicense](https://unlicense.org) public
-	domain declaration/dedicaton, which
-	[allowed](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
-	library to be created and released under new current licensing scheme.
+    public domain, by way of the [Unlicense](https://unlicense.org) public
+    domain declaration/dedicaton, which
+    [allowed](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
+    library to be created and released under new current licensing scheme.
 
 ## Licensing
 
