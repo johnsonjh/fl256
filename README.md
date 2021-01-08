@@ -22,7 +22,7 @@ other native decimal types. It was originally intended for use in a
 crypto-currency ledger system, with specific constraints: a currency with a
 maximum supply of 4,398,046,511,103, represented with an unsigned fixed-point
 42.214 256-bit interchange format, and is not intended for general purpose
-decial calculations or accounting applications.
+decimal calculations or accounting applications.
 
 ### Alternatives
 
@@ -84,9 +84,9 @@ open-source license, as well as a restricted-use, non-free, proprietary license.
   remove all references to the **_OX153MkI_**. In this case, you are bound
   **ONLY** by the terms of the **_The fl256 License_** license. While it is
   recommended that the new projects are renamed, to avoid any user confusion,
-  the creation of derivitative works bear no actual legal requirement or
-  contractual stipulation that could force the renaming or rebranding of
-  derivitative works.
+  the creation of derivative works bear no actual moral or legal requirements 
+  or contractual stipulations that could force the renaming or re-branding of
+  derivative works.
 
 ## Contributing
 

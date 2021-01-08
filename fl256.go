@@ -5,7 +5,6 @@
 // possible to work with negative numbers for convenience, however, they
 // cannot be imported or encoded in "fl256" representation. The functions
 // return 'nil' to signify an error condition or when given invalid input.
-
 package fl256 // import "go.gridfinity.dev/fl256"
 
 import (
