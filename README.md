@@ -2,8 +2,8 @@
 
 ## A high-precision fixed-point numeric representation library for Go
 
-[![License-FL256](https://img.shields.io/badge/Open%20Source%20License-fl256-blue.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
-[![License-GFODLv1](https://img.shields.io/badge/Proprietary%20License-OX153MkI-red.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
+[![License-fl256](https://img.shields.io/badge/Open%20Source%20License-fl256-blue.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
+[![License-OX153MkI](https://img.shields.io/badge/Proprietary%20License-OX153MkI-red.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
 [![CodebeatBadge](https://codebeat.co/badges/85330b22-1d38-4937-9fd9-c506098f210e)](https://codebeat.co/projects/github-com-johnsonjh-fl256-master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3c7d3ad4cb992d2cd80d/maintainability)](https://codeclimate.com/github/johnsonjh/fl256/maintainability)
 
@@ -90,16 +90,17 @@ open-source license, as well as a restricted-use, non-free, proprietary license.
 
 ## Contributing
 
-Anyone who wishes to contribute code (or documentation) to `fl256`, furthermore,
-("_the Tool_"), will be required to digitally sign, using either
-[PGP](https://www.openpgp.org/) or [opmsg](https://github.com/stealth/opmsg),
-the "_fl256 CLA/CTA/LO_". This is a combination documentation that consists of a
-Contributor License Agreement, Copyright Transfer Assignment, and Loyalty Oath.
-Because of the restrictive Terms and Conditions of **The Oxford 153 Entitlement:
-Mark I**, every contributor, no matter how small their contribution, must
-provide the _fl256 authors_ a digitally signed copy of the "_fl256 CLA/CTA/LO_"
-document, without exception. Anyone who cannot consent to the complete terms of
-the "_fl256 CLA/CTA/LO_" can **NOT** contribute to the project.
+Anyone who wishes to contribute code (or documentation) to `fl256`,
+furthermore, ("_the Tool_"), will be required to digitally sign, using either
+[PGP](https://www.openpgp.org/)/[GnuPG](https://gnupg.org/) or
+[opmsg](https://github.com/stealth/opmsg), the "_fl256 CLA/CTA/LO_". This is
+a combination documentation that consists of a Contributor License Agreement,
+Copyright Transfer Assignment, and Loyalty Oath. Because of the restrictive
+Terms and Conditions of **The Oxford 153 Entitlement: Mark I**, every
+contributor, no matter how small their contribution, must provide the
+_fl256 authors_ a digitally signed copy of the "_fl256 CLA/CTA/LO_" document,
+without exception. Anyone who cannot consent to the complete terms of the
+"_fl256 CLA/CTA/LO_" can **NOT** contribute to the project.
 
 The Contributor License Agreement, Copyright Transfer Assignment, and Loyalty
 Oath document is intended to ensure, in perpetuity, the absolute integrity of
@@ -119,10 +120,11 @@ Entitlement: Mark I**.
 
 A complete copy of "_fl256 CLA/CTA/LO_" will be furnished upon request to any
 potential contributors. We encourage all potential contributors read _and
-completely understand_ the the "_fl256 CLA/CTA/LO_". It further recommended that
+completely understand_ the "_fl256 CLA/CTA/LO_". It further recommended that
 any would-be contributors seek guidance from qualified and licensed legal
 council, preferably well-versed in U.S. Contract Law. Seeking formal assistance
 should be the first step if if any questions arise during your reading of the
 "_fl256 CLA/CTA/LO_" document. Unfortunately, "_the fl256 authors_" can not, and
 will not, answer any inquiries regarding the contents of the "_fl256
 CLA/CTA/LO_" documents.
+
