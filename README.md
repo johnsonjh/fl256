@@ -129,5 +129,8 @@ should be the first step if if any questions arise during your reading of the
 "_fl256 CLA/CTA/LO_" document. Unfortunately, "_the fl256 authors_" can not, and
 will not, answer any inquiries regarding the contents of the "_fl256
 CLA/CTA/LO_" documents.
+<<<<<<< HEAD
 
 >>>>>>> d6305af (Update README, standardized fl256 license info.)
+=======
+>>>>>>> acf2ec3 (Format code with black, gofmt, yapf, autopep8, isort, standardrb, standardjs, prettier and rubocop)
