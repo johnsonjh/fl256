@@ -42,6 +42,7 @@ calculations using fixed-point operations for general use, such as:
 - ["lovung/decimal"](https://github.com/lovung/decimal),
 - ["ericlagergren/decimal"](https://github.com/ericlagergren/decimal),
 - ["umran/money"](https://github.com/umran/money),
+- ["rhymond/go-money"](https://github.com/rhymond/go-money),
 - ["db47h/decimal"](https://github.com/db47h/decimal),
 - ["wayn3h0/go-decimal"](https://github.com/wayn3h0/go-decimal),
 - ["strongo/decimal"](https://github.com/strongo/decimal),
