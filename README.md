@@ -61,6 +61,10 @@ diligence when selecting any high precision math library for use.
     [allowed](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
     library to be created and released under new current licensing scheme.
 
+  - If any bugs are found that would affect both `fl256` and `float256`, these
+    patches will provided to the `float256` project per the terms of the
+    [Unlicense](https://unlicense.org).
+
 ## Licensing
 
 `fl256` is distributed as uniquely _multi-licensed software_.
