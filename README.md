@@ -59,13 +59,24 @@ diligence when selecting any high precision math library for use.
   - "_Loki_" is the original author of the `float256` library, from which
     `fl256` was derived. The `float256` source code was released into the public
     domain, by way of the [Unlicense](https://unlicense.org) public domain
-    declaration/dedicaton, which
+    declaration/dedication, which
     [allowed](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
     library to be created and released under new current licensing scheme.
 
-  - If any bugs are found that would affect both `fl256` and `float256`, these
-    patches will provided to the `float256` project per the terms of the
-    [Unlicense](https://unlicense.org).
+  - As an official policy, if any bugs are found that affect both the `fl256`
+    and `float256` projects, the appropriate patches will adapted for inclusion
+	in the `float256` project, released into the public domain (by way of the
+	[Unlicense](https://unlicense.org) declaration/dedication/license), and
+	provided to the `float256` authors. This policy will will remain in effect
+	as long as the `float256` project continues to release their code into the
+	public domain, either by way of the [Unlicense](https://unlicense.org), or 
+	by any other analogous public domain declaration, dedication, or license,
+	provided that such declaration, dedication, or license fully and completely
+	disclaims all copyright monopoly interest which may be assigned automatically,
+	or otherwise made available to the `float256` authors under any local
+	legislation, international law, treaty, convention, or agreement, with
+	equivalent force and effect of the [Unlicense](https://unlicense.org).
+
 
 ## Licensing
 
