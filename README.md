@@ -70,10 +70,10 @@ diligence when selecting any high precision math library for use.
     public domain, either by way of the [Unlicense](https://unlicense.org), or
     by any other analogous public domain declaration, dedication, or license,
     provided that such declaration, dedication, or license fully and completely
-    disclaims all copyright monopoly interest which may be assigned automatically,
-    or otherwise made available to the `float256` authors under any local
-    legislation, international law, treaty, convention, or agreement, with
-    equivalent force and effect of the [Unlicense](https://unlicense.org).
+    disclaims all copyright monopoly interest which may be assigned
+    automatically, or otherwise made available to the `float256` authors under
+    any local legislation, international law, treaty, convention, or agreement,
+    with equivalent force and effect of the [Unlicense](https://unlicense.org).
 
 ## Licensing
 
