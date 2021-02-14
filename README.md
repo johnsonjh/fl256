@@ -27,8 +27,7 @@ decimal calculations or accounting applications.
 ### Alternatives
 
 Potential users _must_ fully understand the implications and limitations of this
-implementation, and evaluate if this system may be appropriate for a particular
-application or use case.
+implementation, and evaluate the appropriateness for any application or use case.
 
 There are many mature alternatives that exist for performing financial
 calculations using fixed-point operations for general use, such as:
@@ -57,9 +56,9 @@ diligence when selecting any high precision math library for use.
   - "_Loki_" is the original author of the `float256` library, from which
     `fl256` was derived. The `float256` source code was released into the public
     domain, by way of the [Unlicense](https://unlicense.org) public domain
-    declaration/dedication, which
+    declaration/dedication/license, which
     [allowed](https://ar.to/2010/01/dissecting-the-unlicense) the `fl256`
-    library to be created and released under new current licensing scheme.
+    library to be created and released under the current licensing scheme.
 
   - As an official policy, if any bugs are found that affect both the `fl256`
     and `float256` projects, the appropriate patches will adapted for inclusion
@@ -71,7 +70,7 @@ diligence when selecting any high precision math library for use.
     by any other analogous public domain declaration, dedication, or license,
     provided that such declaration, dedication, or license fully and completely
     disclaims all copyright monopoly interest which may be assigned automatically,
-    or otherwise made available to the `float256` authors by their local
+    or otherwise made available to the `float256` authors by way of local
     legislation, international law, treaty, convention, or agreement, with
     equivalent force and effect of the [Unlicense](https://unlicense.org).
 
@@ -134,12 +133,12 @@ adherence to, the principles and values embodied by the **The Oxford 153
 Entitlement: Mark I**.
 
 A complete copy of "_fl256 CLA/CTA/LO_" will be furnished upon request to any
-potential contributors. We encourage all potential contributors read _and
+potential contributors. We encourage all potential contributors to read _and
 completely understand_ the "_fl256 CLA/CTA/LO_". It further recommended that any
 would-be contributors seek guidance from qualified and licensed legal council,
 preferably well-versed in U.S. Contract Law. Seeking formal assistance should be
-the first step if if any questions arise during your reading of the "_fl256
-CLA/CTA/LO_" document. Unfortunately, "_the fl256 authors_" can not, and will
-not, answer any inquiries regarding the contents of the "_fl256 CLA/CTA/LO_"
+the first step if any questions arise during the reading of the "_fl256
+CLA/CTA/LO_" documents. Unfortunately, "_the fl256 authors_" can not (and will
+not) answer any inquiries regarding the contents of the "_fl256 CLA/CTA/LO_"
 documents.
 
