@@ -80,7 +80,8 @@ diligence when selecting any high precision math library for use.
     disclaims all copyright monopoly interest which may be assigned
     automatically, or otherwise made available to the `float256` authors by way
     of local legislation, international law, treaty, convention, or agreement,
-    with equivalent force and effect of the [Unlicense](https://unlicense.org).
+    with equivalent force and effect of the [Unlicense](https://unlicense.org),
+	such as the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) or [WTFPLv2](https://wtfpl2.com/).
 
 ## Licensing
 
