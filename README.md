@@ -49,6 +49,13 @@ calculations using fixed-point operations for general use, such as:
 Please follow all best practices and industry norms. You must exercise due
 diligence when selecting any high precision math library for use.
 
+## Availability
+
+- [GitHub](https://github.com/johnsonjh/fl256)
+- [GitLab Mirror](https://gitlab.com/johnsonjh/fl256)
+- [SourceHut Mirror](https://sr.ht/~trn/fl256)
+- [NotABug Mirror](https://notabug.org/trn/fl256)
+
 ## Original Author
 
 - [Loki 'l0k18' Verloren](https://github.com/l0k18)
