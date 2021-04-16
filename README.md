@@ -81,6 +81,9 @@ diligence when selecting any high precision math library for use.
     automatically, or otherwise made available to the `float256` authors by way
     of local legislation, international law, treaty, convention, or agreement,
     with equivalent force and effect of the [Unlicense](https://unlicense.org),
+    such as the
+    [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+    or the [WTFPL2](https://wtfpl2.com/).
 
 ## Licensing
 
