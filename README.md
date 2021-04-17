@@ -2,6 +2,7 @@
 
 ## A high-precision fixed-point numeric representation library for Go
 
+[![GRC](https://goreportcard.com/badge/github.com/johnsonjh/fl256)](https://goreportcard.com/badge/github.com/johnsonjh/fl256)
 [![License-fl256](https://img.shields.io/badge/Open%20Source%20License-fl256-blue.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
 [![License-OX153MkI](https://img.shields.io/badge/Proprietary%20License-OX153MkI-red.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
 [![CodebeatBadge](https://codebeat.co/badges/85330b22-1d38-4937-9fd9-c506098f210e)](https://codebeat.co/projects/github-com-johnsonjh-fl256-master)
