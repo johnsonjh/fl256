@@ -3,9 +3,9 @@
 ## A high-precision fixed-point numeric representation library for Go
 
 [![GRC](https://goreportcard.com/badge/github.com/johnsonjh/fl256)](https://goreportcard.com/badge/github.com/johnsonjh/fl256)
-[![License-fl256](https://img.shields.io/badge/Open%20Source%20License-fl256-blue.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.256)
-[![License-OX153MkI](https://img.shields.io/badge/Proprietary%20License-OX153MkI-red.svg)](https://gitlab.gridfinity.com/jeff/fl256/-/blob/master/LICENSE.153)
-[![CodebeatBadge](https://codebeat.co/badges/85330b22-1d38-4937-9fd9-c506098f210e)](https://codebeat.co/projects/github-com-johnsonjh-fl256-master)
+[![License-fl256](https://img.shields.io/badge/Open%20Source%20License-fl256-blue.svg)](https://img.shields.io/badge/Open%20Source%20License-fl256-blue.svg)
+[![License-OX153MkI](https://img.shields.io/badge/Proprietary%20License-OX153MkI-red.svg)](https://img.shields.io/badge/Proprietary%20License-OX153MkI-red.svg)
+[![CodebeatBadge](https://codebeat.co/badges/b6a5309b-f17b-424e-8819-14229ccd7b89)](https://codebeat.co/projects/github-com-johnsonjh-fl256-master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3c7d3ad4cb992d2cd80d/maintainability)](https://codeclimate.com/github/johnsonjh/fl256/maintainability)
 
 ---
