@@ -24,9 +24,15 @@ func New(f float64) *big.Float {
 // FromString accepts a properly formed string of integer or decimal value and returns a big.Float to the caller. Negative values and values greater than 4,398,046,511,103 are invalid and rejected by returning nil.
 func FromString(s string) *big.Float {
 	r, success := Zero().SetString(s)
-	if r.Sign()<0 { return nil }
-	if r.MantExp(nil)>42 { return nil }
-	if success { return r }
+	if r.Sign() < 0 {
+		return nil
+	}
+	if r.MantExp(nil) > 42 {
+		return nil
+	}
+	if success {
+		return r
+	}
 	return nil
 }
 
@@ -39,8 +45,12 @@ func Int(a *big.Float) *big.Int {
 // FromInt returns a *big.Float from a *big.Int. Negative values and values greater than 4,398,046,511,103 are invalid and rejected by returning nil.
 func FromInt(i *big.Int) *big.Float {
 	r := Zero().SetInt(i)
-	if r.Sign()<0 { return nil }
-	if r.MantExp(nil)>42 { return nil }
+	if r.Sign() < 0 {
+		return nil
+	}
+	if r.MantExp(nil) > 42 {
+		return nil
+	}
 	return r
 }
 
@@ -55,8 +65,12 @@ func Int64(a *big.Float) int64 {
 // FromInt64 returns a *big.Float from an int64. Negative values and values greater than 4,398,046,511,103 are invalid and rejected by returning nil.
 func FromInt64(i int64) *big.Float {
 	r := Zero().SetInt64(i)
-	if r.Sign()<0 { return nil }
-	if r.MantExp(nil)>42 { return nil}
+	if r.Sign() < 0 {
+		return nil
+	}
+	if r.MantExp(nil) > 42 {
+		return nil
+	}
 	return r
 }
 
@@ -71,8 +85,12 @@ func Uint64(a *big.Float) uint64 {
 // FromUint64 returns a *big.Float from a uint64. Values greater than 4,398,046,511,103 are invalid and rejected by returning nil as they exceed the precision of the serialization format.
 func FromUint64(i uint64) *big.Float {
 	r := Zero().SetUint64(i)
-	if r.Sign()<0 { return nil }
-	if r.MantExp(nil)>42 { return nil }
+	if r.Sign() < 0 {
+		return nil
+	}
+	if r.MantExp(nil) > 42 {
+		return nil
+	}
 	return r
 }
 
@@ -94,7 +112,7 @@ func Lesser(x, y *big.Float) bool {
 // Exp returns a ** b
 func Exp(a *big.Float, e uint64) *big.Float {
 	result := Zero().Copy(a)
-	for i:=uint64(0); i<e-1; i++ {
+	for i := uint64(0); i < e-1; i++ {
 		result = Mul(result, a)
 	}
 	return result
@@ -103,20 +121,22 @@ func Exp(a *big.Float, e uint64) *big.Float {
 // Root returns the nth root of a to 255 significant bits (if it is larger this function gets stuck in an infinite loop)
 func Root(a *big.Float, n uint64) *big.Float {
 	limit := Exp(New(2), 255)
-	n1 := n-1
+	n1 := n - 1
 	n1f, rn := New(float64(n1)), Div(New(1.0), New(float64(n)))
 	x, x0 := New(1.0), Zero()
 	_ = x0
 	for {
 		potx, t2 := Div(New(1.0), x), a
-		for b:=n1; b>0; b>>=1 {
+		for b := n1; b > 0; b >>= 1 {
 			if b&1 == 1 {
 				t2 = Mul(t2, potx)
 			}
 			potx = Mul(potx, potx)
 		}
-		x0, x = x, Mul(rn, Add(Mul(n1f, x), t2) )
-		if Lesser(Mul(Abs(Sub(x, x0)), limit), x) { break } 
+		x0, x = x, Mul(rn, Add(Mul(n1f, x), t2))
+		if Lesser(Mul(Abs(Sub(x, x0)), limit), x) {
+			break
+		}
 	}
 	return x
 }
@@ -172,11 +192,15 @@ func Mod(a, b *big.Float) *big.Float {
 
 // Encode takes a big.Float, left shifts and truncates to 214 bits of decimal precision and maximum 42 bits of integer precision and returns a byte slice that can be stored on disk or sent over a network. Negative values and values greater than 4,398,046,511,103 are invalid and rejected by returning nil.
 func Encode(a *big.Float) []byte {
-	if a.Sign()<0 { return nil }
+	if a.Sign() < 0 {
+		return nil
+	}
 	mantissa := New(0)
 	a.MantExp(mantissa)
 	exp := a.MantExp(nil)
-	if exp > 42 { return nil }
+	if exp > 42 {
+		return nil
+	}
 	bytes := Int(Mul(Exp(New(2), uint64(214+exp)), mantissa)).Bytes()
 	return append(make([]byte, 32-len(bytes)), bytes...)
 }
